@@ -7,6 +7,6 @@
 #       stratum-na.rplant.xyz   /Toronto/
 #
 while [ 1 ]; do
-./cpuminer-sse2 -a yespowertide -o stratum+tcp://tidepool.shop:6243 -u 
+./cpuminer-sse2 -a yespowertide -o stratum+tcp://asia.tidepool.shop:6243 -u TPqUcquPvtCNyc5wfBbCDPuxwPiWe76NgT -p c=TDC 
 sleep 5
 done
